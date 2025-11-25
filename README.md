@@ -53,7 +53,7 @@ The genetic algorithm should typically:
   Demonstrate effective feature selection capability
   
 
-To run the complete project:
+# To run the complete project:
 
   Install dependencies: pip install -r requirements.txt
   
