@@ -10,9 +10,6 @@ def run_complete_experiment():
     # Run the genetic algorithm experiment
     results = ga_fs.main()
     
-    # Generate PDF report
-    generate_report.create_pdf_report(results)
-    
     print("\nExperiment completed successfully!")
     print("Generated files:")
     print("- ga_feature_selection_results.png (Results visualization)")
