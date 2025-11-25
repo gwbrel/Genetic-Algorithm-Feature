@@ -31,4 +31,5 @@ The genetic algorithm should typically:
 
 To run the complete project:
   Install dependencies: pip install -r requirements.txt
+  
   Execute: python run_experiment.py
