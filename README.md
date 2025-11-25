@@ -1,3 +1,6 @@
+Gabriel Luis Inacio de Souza, Lucas Ricardo Nagano Rigon
+
+
 # Genetic-Algorithm-Feature
 The implementation follows academic best practices and provides a robust foundation for feature selection using genetic algorithms.
 
