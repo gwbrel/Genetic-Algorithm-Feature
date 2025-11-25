@@ -24,7 +24,7 @@ Key Features of the Implementation:
   60-20-20 split (train-validation-test)
   
 
-Comprehensive Evaluation:
+# Comprehensive Evaluation:
 
   Comparison with all-features baseline
   
@@ -33,17 +33,14 @@ Comprehensive Evaluation:
   Feature reduction analysis
   
 
-Visualization and Reporting:
+# Visualization and Reporting:
 
   Fitness evolution plots
   
   Accuracy comparison charts
 
-  Professional PDF report
   
-
-Expected Results:
-
+# Expected Results:
 The genetic algorithm should typically:
 
   Reduce feature count by 40-60%
